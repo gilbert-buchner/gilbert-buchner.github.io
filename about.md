@@ -12,4 +12,4 @@ Softwareentwicklung ist meine Berufung.
 
 ### Contact me
 
-[gilbert.buchner@gmx.at](mailto:gilbert.buchner@gmx.at)
+[gilbert@familie-buchner.at](mailto:gilbert@familie-buchner.at)
