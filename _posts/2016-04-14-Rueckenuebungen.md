@@ -2,4 +2,4 @@
 layout: post
 title: Rückenübungen
 ---
-https://www.youtube.com/watch?v=CIS9uM7ihyI
+[Video zu Rückenübungen bei Kreuzschmerzen](https://www.youtube.com/watch?v=CIS9uM7ihyI)
