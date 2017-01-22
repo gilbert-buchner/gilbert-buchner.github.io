@@ -55,4 +55,4 @@ Der Outlook CalDav Synchronizer ist ein OpenSource Projekt, welches aus einer Ma
 
   Bei "server name or URL" folgendes eingeben: 
 
-      https://synology-server-url:8443/addressbooks/users/name/addressbooks
+      https://synology-nas-url:8443/addressbooks/users/name/addressbooks
