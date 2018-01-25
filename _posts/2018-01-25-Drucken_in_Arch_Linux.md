@@ -7,4 +7,6 @@ Um mit meinem Canon MX925-Multifunktionsgerät drucken und scannen zu können, m
 * https://aur.archlinux.org/cups-bjnp.git
 * https://aur.archlinux.org/canon-pixma-mx920-complete.git
 
-![Fertige Einrichtung in Cups](/images/setup_canon_mx925_finished.png){:class="img-responsive"}
+Außerdem muss ghostscript installiert sein, um den Testdruck auszuführen.
+
+![Fertige Einrichtung in Cups](/images/setup_canon_mx925_finished.png)
