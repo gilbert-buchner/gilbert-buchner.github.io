@@ -5,4 +5,4 @@ title: PHP - Eclipse - XDebug
 
 
 * https://xdebug.org/wizard.php
-* php.ini umbedingt auch folgenden Eintrag aufnehmen: xdebug.remote_enable = On
+* php.ini unbedingt auch folgenden Eintrag aufnehmen: xdebug.remote_enable = On
